@@ -15,6 +15,7 @@
 		C61EC88720D2D48700FCE54D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C61EC88520D2D48700FCE54D /* LaunchScreen.storyboard */; };
 		C61EC89220D2D48700FCE54D /* CountAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C61EC89120D2D48700FCE54D /* CountAppTests.swift */; };
 		C61EC89D20D2D48700FCE54D /* CountAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C61EC89C20D2D48700FCE54D /* CountAppUITests.swift */; };
+		C61EC8AB20D2D4B000FCE54D /* S__47955971.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C61EC8AA20D2D4B000FCE54D /* S__47955971.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		C61EC89820D2D48700FCE54D /* CountAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CountAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C61EC89C20D2D48700FCE54D /* CountAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountAppUITests.swift; sourceTree = "<group>"; };
 		C61EC89E20D2D48700FCE54D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C61EC8AA20D2D4B000FCE54D /* S__47955971.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = S__47955971.jpg; path = ../../../Downloads/S__47955971.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		C61EC87820D2D48700FCE54D /* CountApp */ = {
 			isa = PBXGroup;
 			children = (
+				C61EC8AA20D2D4B000FCE54D /* S__47955971.jpg */,
 				C61EC87920D2D48700FCE54D /* AppDelegate.swift */,
 				C61EC87B20D2D48700FCE54D /* ViewController.swift */,
 				C61EC87D20D2D48700FCE54D /* Main.storyboard */,
@@ -237,6 +240,7 @@
 			files = (
 				C61EC88720D2D48700FCE54D /* LaunchScreen.storyboard in Resources */,
 				C61EC88420D2D48700FCE54D /* Assets.xcassets in Resources */,
+				C61EC8AB20D2D4B000FCE54D /* S__47955971.jpg in Resources */,
 				C61EC87F20D2D48700FCE54D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
